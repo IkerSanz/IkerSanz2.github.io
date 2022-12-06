@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(90deg, #0ebcae 0%, #989f9d 100%);
+    font-family: century Gothic, sans-serif;
+    background-image: radial-gradient(circle 76);
+}
+
+.cuadro {
+    background: linear-gradient(90deg, #0ebcae 0%, #989f9d 100%);
+}
